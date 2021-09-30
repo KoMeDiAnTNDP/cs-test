@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="16" viewBox="0 0 11 16">
+  <g id="Maps-Navigation_Pin_pin" data-name="Maps-Navigation / Pin / pin" transform="translate(-469 -599.102)">
+    <g id="Group_43" data-name="Group 43" transform="translate(469.5 599.602)">
+      <g id="pin">
+        <path id="Oval_32" data-name="Oval 32" d="M475.7,608.246a2.447,2.447,0,1,0-2.447-2.447A2.447,2.447,0,0,0,475.7,608.246Z" transform="translate(-470.697 -600.826)" fill="none" stroke="#72b6b3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Shape_182" data-name="Shape 182" d="M474.5,599.6a5,5,0,0,1,5,5c0,2.271-3.383,7.966-4.583,9.776a.5.5,0,0,1-.833,0c-1.2-1.81-4.583-7.505-4.583-9.776A5,5,0,0,1,474.5,599.6Z" transform="translate(-469.5 -599.602)" fill="none" stroke="#72b6b3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

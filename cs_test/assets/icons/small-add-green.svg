@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <filter id="Rectangle_230" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#707070" flood-opacity="0.447"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2277" data-name="Group 2277" transform="translate(-72 -713)">
+    <g transform="matrix(1, 0, 0, 1, 72, 713)" filter="url(#Rectangle_230)">
+      <g id="Rectangle_230-2" data-name="Rectangle 230" transform="translate(30 20)" fill="none" stroke="#72b6b3" stroke-width="1.5">
+        <rect width="20" height="20" rx="10" stroke="none"/>
+        <rect x="0.75" y="0.75" width="18.5" height="18.5" rx="9.25" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_2276" data-name="Group 2276" transform="translate(-175.254 -23.334)">
+      <rect id="Rectangle_231" data-name="Rectangle 231" width="1.25" height="10" transform="translate(286.629 761.334)" fill="#72b6b3"/>
+      <rect id="Rectangle_232" data-name="Rectangle 232" width="1.25" height="10" transform="translate(292.254 765.709) rotate(90)" fill="#72b6b3"/>
+    </g>
+  </g>
+</svg>
